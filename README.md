@@ -1,2 +1,2 @@
 # Interview-Prep-HackeRrank
-INTERVIEW PREPARATION KIT: HACKERRANK
+Programs in python
