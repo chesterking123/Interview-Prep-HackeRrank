@@ -1,2 +1,2 @@
-# Interview-Prep-HackeRrank
+# Interview-Prep-HackerRank
 Programs in python
